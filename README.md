@@ -38,8 +38,16 @@
 </br>
 
 ### End Note
+#### This is my endnote
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_ready.gif">
 
 ### My profiles & Contacts
+- 🔰 Hackerone
+- 🔰 BugCrowd
+- 🔰 YouTube
+- 🔰 Twitter
+- 🔰 Medium
 
 </br>
 </br>
