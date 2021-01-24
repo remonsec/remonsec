@@ -5,8 +5,6 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
 
-</br>
-</br>
 
 ### Learning
 - 🔰 CSE
@@ -29,8 +27,6 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
 
-</br>
-</br>
 
 ### Resources I Follow
 - 🔰 PentesterLand
@@ -40,8 +36,6 @@
 - 🔰 HackerOne Disclosure Rportes
 - 🔰 Active BugHunter YouTube Channels
 
-</br>
-</br>
 
 ### End Note
 #### This is my endnote
@@ -57,9 +51,6 @@
 - 🔰 YouTube
 - 🔰 Twitter
 - 🔰 Medium
-
-</br>
-</br>
 
 **************
 
