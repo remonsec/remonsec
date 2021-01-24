@@ -24,19 +24,16 @@
 
 #### After seeing all the cool stuff of InfoSec, I start dreaming to become a Hacker. Passed through some useless coursed and random youtube videos. Everyone was telling hold on boy, you even don't know how to shut down your windows 8 machine, Hacking is not for you go and do something less technical
 
+<div align="left" style="padding: 10px">
 <img hight="400" width="500" alt="GIF" align="left" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
-
-<div align="right">
-<ul> 
-<h3>Resources I Follow</h3>
-<li> 🔰 PentesterLand</li>
-<li> 🔰 Medium Writeups</li>
-<li> 🔰 HackerOne Disclosure Rportes</li>
-<li> 🔰 BugCrowd University</li>
-<li> 🔰 Active BugHunter YouTube Channels</li>
-<li> 🔰 Twitter BugBounty Community</li>
-</ul>
 </div>
 
+### Resources I Follow
+- 🔰 PentesterLand
+- 🔰 Medium Writeups
+- 🔰 HackerOne Disclosure Rportes
+- 🔰 BugCrowd University
+- 🔰 Active BugHunter YouTube Channels
+- 🔰 Twitter BugBounty Community
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=remonsec&theme=radical)
