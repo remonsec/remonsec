@@ -5,6 +5,9 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
 
+</br>
+</br>
+
 ### Learning
 - 🔰 CSE
 - 🔰 Bug Bounty
@@ -25,6 +28,9 @@
 #### After seeing all the cool stuff of InfoSec, I start dreaming to become a Hacker. Passed through some useless coursed and random youtube videos. Everyone was telling hold on boy, you even don't know how to shut down your windows 8 machine, Hacking is not for you go and do something less technical
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
+
+</br>
+</br>
 
 ### Resources I Follow
 - 🔰 PentesterLand
