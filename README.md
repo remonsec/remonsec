@@ -27,13 +27,15 @@
 <img hight="400" width="500" alt="GIF" align="left" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
 
 <div align="right">
-### Resources I Follow
-- 🔰 PentesterLand
-- 🔰 Medium Writeups
-- 🔰 HackerOne Disclosure Rportes
-- 🔰 BugCrowd University
-- 🔰 Active BugHunter YouTube Channels
-- 🔰 Twitter BugBounty Community
+<ul> 
+<h3>Resources I Follow</h3>
+<li> 🔰 PentesterLand</li>
+<li> 🔰 Medium Writeups</li>
+<li> 🔰 HackerOne Disclosure Rportes</li>
+<li> 🔰 BugCrowd University</li>
+<li> 🔰 Active BugHunter YouTube Channels</li>
+<li> 🔰 Twitter BugBounty Community</li>
+</ul>
 </div>
 
 
