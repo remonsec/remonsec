@@ -43,8 +43,8 @@
 </br>
 
 ### End Note
-#### Well, it's true that I am not that much smart like others
-#### So it only means I have to work Harder than others
+#### Well, it's true that I am not that much smart like other
+#### So it only means I have to work Harder than other
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_ready.gif">
 
