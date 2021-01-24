@@ -19,7 +19,7 @@
 
 </br>
 </br>
-
+___
 ### Personal Intro
 #### I am just a average boy who was not good with technologies at all, touched pc for the first time to play GTA at arcade game store & got interest with infosec after searching Call Of Duty crack on internet
 
@@ -41,7 +41,7 @@
 </br>
 </br>
 </br>
-
+___
 ### End Note
 #### Well, it's true that I am not that much smart like other
 #### So it only means I have to work Harder than other
@@ -62,7 +62,7 @@
 </br>
 </br>
 
-**************
+*************
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
