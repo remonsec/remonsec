@@ -29,9 +29,21 @@
 ### Resources I Follow
 - 🔰 PentesterLand
 - 🔰 Medium Writeups
-- 🔰 HackerOne Disclosure Rportes
 - 🔰 BugCrowd University
-- 🔰 Active BugHunter YouTube Channels
 - 🔰 Twitter BugBounty Community
+- 🔰 HackerOne Disclosure Rportes
+- 🔰 Active BugHunter YouTube Channels
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=remonsec&theme=radical)
+</br>
+</br>
+
+### End Note
+
+### My profiles & Contacts
+
+</br>
+</br>
+
+<div align="center">
+![remonsec github stats](https://github-readme-stats.vercel.app/api?username=remonsec&theme=radical)
+</div>
