@@ -5,6 +5,8 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
 
+</br>
+</br>
 
 ### Learning
 - 🔰 CSE
@@ -27,6 +29,8 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
 
+</br>
+</br>
 
 ### Resources I Follow
 - 🔰 PentesterLand
@@ -36,9 +40,11 @@
 - 🔰 HackerOne Disclosure Rportes
 - 🔰 Active BugHunter YouTube Channels
 
+</br>
+</br>
 
 ### End Note
-#### This is my endnote
+#### Well, it's true that I am not that much smart like others, So it only means I have to work Harder than others
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_ready.gif">
 
@@ -46,11 +52,15 @@
 </br>
 
 ### My profiles & Contacts
-- 🔰 Hackerone
-- 🔰 BugCrowd
-- 🔰 YouTube
-- 🔰 Twitter
-- 🔰 Medium
+- 🔰 [Hackerone](https://hackerone.com/remonsec)
+- 🔰 [BugCrowd](https://bugcrowd.com/remonsec)
+- 🔰 [Linkedin](https://www.linkedin.com/in/remonsec/)
+- 🔰 [YouTube](https://youtube.com/remonsec)
+- 🔰 [Twitter](https://twitter.com/remonsec)
+- 🔰 [Medium](https://medium.com/@remonsec)
+
+</br>
+</br>
 
 **************
 
