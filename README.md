@@ -27,8 +27,6 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
 
-</br>
-</br>
 
 ### Resources I Follow
 - 🔰 PentesterLand
