@@ -5,15 +5,16 @@ I am **Mehedi Hasan Remon** a 21 years old boy who study in **Computer Science**
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### Learning
+- ✨ CSE
+- ✨ Bug Bounty
+- ✨ Shell Scripting
+- ✨ Webapp Pentesting
 
-### - Hobbies : 
+### Hobbies
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Explore The Internet
 
 </br>
 </br>
