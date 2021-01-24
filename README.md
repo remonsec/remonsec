@@ -26,6 +26,7 @@
 
 <img hight="400" width="500" alt="GIF" align="left" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
 
+<div align="right">
 ### Resources I Follow
 - 🔰 PentesterLand
 - 🔰 Medium Writeups
@@ -33,5 +34,7 @@
 - 🔰 BugCrowd University
 - 🔰 Active BugHunter YouTube Channels
 - 🔰 Twitter BugBounty Community
+</div>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=remonsec&theme=radical)
