@@ -3,8 +3,6 @@
 #### Assalamu Alaikum
 #### I am **Mehedi Hasan Remon** a 21 years old boy who study in **Computer Science** & do **BugBounty** as side activity
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
-
 
 ### Learning
 - 🔰 CSE
@@ -26,8 +24,6 @@
 
 #### After seeing all the cool stuff of InfoSec, I start dreaming to become a Hacker. Passed through some useless courses and random youtube videos. Everyone was telling hold on boy, you even don't know how to shut down your windows 8 machine, Hacking is not for you go and do something less technical
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
-
 </br>
 </br>
 
@@ -47,8 +43,6 @@
 
 #### Well, it's true that I am not that much smart like other
 #### So it only means I have to work Harder than other
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_ready.gif">
 
 </br>
 </br>
