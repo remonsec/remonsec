@@ -1,6 +1,5 @@
 ### My profiles & Contacts
 - 🔰 [Hackerone](https://hackerone.com/remonsec)
-- 🔰 [BugCrowd](https://bugcrowd.com/remonsec)
 - 🔰 [Linkedin](https://www.linkedin.com/in/remonsec/)
 - 🔰 [YouTube](https://youtube.com/remonsec)
 - 🔰 [Twitter](https://twitter.com/remonsec)
