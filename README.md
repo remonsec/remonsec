@@ -2,7 +2,7 @@
 
 ### Yo, I'm Remonsec 🔥
 
-I’m a hacker, bug bounty hunter, and pentester
+I’m a hacker, bug bounty hunter, and penetration tester
 
 If there’s a vulnerability, you can bet I’m on the hunt
 
