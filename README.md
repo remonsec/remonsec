@@ -1,8 +1,8 @@
 ---
 
-### I'm Remonsec 🔥
+### It’s Remonsec 🔥
 
-Known as a hacker, bug bounty hunter, and penetration tester
+A hacker, bug bounty hunter, and penetration tester — that’s what I do.
 
 If there’s a vulnerability, you can bet I’m on the hunt
 
