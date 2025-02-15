@@ -15,6 +15,17 @@ I'm a hacker, bug bounty hunter, and pentester. If it's got a vulnerability, I'm
 
 ---
 
+### 🖥️ **Professional Experience**
+
+- **HackerOne Brand Ambassador**  
+- **Senior Security Engineer at RedSentry**  
+- **Founder of Pentestervibe**  
+- **Founding Member of Bug Bounty Community Bangladesh**  
+- **Founding Member of CTF Community Bangladesh**  
+- **Bangladesh’s Top-Ranked Cybersecurity Researcher**
+
+---
+
 ### 👨‍💻 Stats
 
 <p align="center">
