@@ -2,7 +2,9 @@
 
 ### Yo, I'm Remonsec 🔥
 
-I'm a hacker, bug bounty hunter, and pentester. If it's got a vulnerability, I'm probably looking for it. Catch me on the grind or getting my hands dirty with code.
+I’m a hacker, a bug bounty hunter, and a pentester. If there’s a vulnerability, best believe I’m hunting it down. Either I’m grinding or getting my hands dirty with code
+
+no excuses.
 
 ---
 
