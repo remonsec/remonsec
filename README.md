@@ -23,12 +23,12 @@ No excuses
 
 ### 🖥️ **Professional Experience**
 
-- **HackerOne Brand Ambassador**  
-- **Senior Security Engineer at RedSentry**  
-- **Founder of Pentestervibe**  
-- **Founding Member of Bug Bounty Community Bangladesh**  
-- **Founding Member of CTF Community Bangladesh**  
-- **Bangladesh’s Top-Ranked Cybersecurity Researcher**
+- Brand Ambassador at HackerOne
+- Senior Security Engineer at RedSentry
+- Founder of Pentestervibe
+- Founding Member of Bug Bounty Community Bangladesh
+- Founding Member of CTF Community Bangladesh
+- Top Cybersecurity Researcher in Bangladesh
 
 ---
 
