@@ -1,11 +1,21 @@
-### My profiles & Contacts
-- 🔰 [Hackerone](https://hackerone.com/remonsec)
-- 🔰 [Linkedin](https://www.linkedin.com/in/remonsec/)
-- 🔰 [YouTube](https://youtube.com/remonsec)
-- 🔰 [Twitter](https://twitter.com/remonsec)
-- 🔰 [Medium](https://medium.com/@remonsec)
+---
 
-*************
+### Yo, I'm Remonsec 🔥
+
+I'm a hacker, bug bounty hunter, and pentester. If it's got a vulnerability, I'm probably looking for it. Catch me on the grind or getting my hands dirty with code.
+
+---
+
+### 🔥 Connect with me:
+- [Hackerone](https://hackerone.com/remonsec)
+- [LinkedIn](https://www.linkedin.com/in/remonsec/)
+- [YouTube](https://youtube.com/remonsec)
+- [Twitter](https://twitter.com/remonsec)
+- [Medium](https://medium.com/@remonsec)
+
+---
+
+### 👨‍💻 Stats
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -13,4 +23,4 @@
 </a>
 </p>
 
-*************
+---
