@@ -12,7 +12,7 @@ No excuses
 
 ---
 
-### 🔥 Connect with me:
+### 🕵️‍♂️ Connect with me:
 - [Hackerone](https://hackerone.com/remonsec)
 - [LinkedIn](https://www.linkedin.com/in/remonsec/)
 - [YouTube](https://youtube.com/remonsec)
