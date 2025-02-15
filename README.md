@@ -1,6 +1,6 @@
 ---
 
-### Yo, I'm Remonsec 🔥
+### I'm Remonsec 🔥
 
 I’m a hacker, bug bounty hunter, and penetration tester
 
