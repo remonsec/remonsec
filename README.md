@@ -24,7 +24,7 @@ No excuses
 ### 🖥️ **Professional Experience**
 
 - Brand Ambassador at [HackerOne](https://hackerone.com/)
-- Senior Security [Engineer at RedSentry](https://www.redsentry.com/)
+- Senior Security Engineer at [RedSentry](https://www.redsentry.com/)
 - Founder of [Pentestervibe](https://pentestervibe.com/)
 - Founding Member of [Bug Bounty Community Bangladesh](https://www.facebook.com/bb.community.bd/)
 - Founding Member of [CTF Community Bangladesh](https://www.facebook.com/ctfcommunitybd/)
