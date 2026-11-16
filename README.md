@@ -2,11 +2,11 @@
 
 ### It’s Remonsec 🔥
 
-A hacker, bug bounty hunter, and penetration tester — that’s what I do.
+A hacker, bug bounty hunter, and penetration tester
 
-If there’s a vulnerability, you can bet I’m on the hunt
+That’s what I do
 
-I’m always at work
+I am always at work
 
 No excuses
 
