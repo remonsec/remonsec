@@ -12,7 +12,7 @@ No excuses
 
 ---
 
-### 🕵️‍♂️ Connect with me:
+### Connect with me:
 - [Hackerone](https://hackerone.com/remonsec)
 - [LinkedIn](https://www.linkedin.com/in/remonsec/)
 - [YouTube](https://youtube.com/remonsec)
@@ -21,7 +21,7 @@ No excuses
 
 ---
 
-### 🖥️ **Professional Experience**
+### **Professional Experience**
 
 - Brand Ambassador at [HackerOne](https://hackerone.com/)
 - Senior Security Engineer at [RedSentry](https://www.redsentry.com/)
@@ -29,15 +29,5 @@ No excuses
 - Founding Member of [Bug Bounty Community Bangladesh](https://www.facebook.com/bb.community.bd/)
 - Founding Member of [CTF Community Bangladesh](https://www.facebook.com/ctfcommunitybd/)
 - Top Ranked Cybersecurity Researcher in Bangladesh
-
----
-
-### 👨‍💻 Stats
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=remonsec&&show_icons=true&theme=radical"/>
-</a>
-</p>
 
 ---
